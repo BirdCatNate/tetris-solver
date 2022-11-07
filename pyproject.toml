@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "tetris-solver"
+version = "0.1.0"
+description = "Solve Tetris Problems, with neat graphs"
+authors = ["Nate Strand <BirdCatNate@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "tetris_solver"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+manim = "^0.16.0.post0"
+
+[tool.poetry.scripts]
+solve = "solver:main"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

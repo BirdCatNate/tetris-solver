@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/nate/Documents/GitHub/tetris-solver/src/media/videos/main/1080p30/partial_movie_files/DefaultTemplate/2392342531_2330473256_223132457.mp4'
+file 'file:/Users/nate/Documents/GitHub/tetris-solver/src/media/videos/main/1080p30/partial_movie_files/DefaultTemplate/4033729866_2769193253_2319886907.mp4'
+file 'file:/Users/nate/Documents/GitHub/tetris-solver/src/media/videos/main/1080p30/partial_movie_files/DefaultTemplate/4033729866_4065880486_2319886907.mp4'

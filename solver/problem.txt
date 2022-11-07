@@ -1,0 +1,14 @@
+The problem is as follows:
+
+You are given a 4x4 tetris board of the following initial state:
+        0 0 0 0
+        0 0 0 0
+        1 1 0 0
+        1 0 0 0
+Upon placing a tetris piece, if an entire row is full it gets cleared.
+
+Your objective is to get the longest possible combo under the following conditions
+ 0. You only get to see the current piece, and can illegally place tetronimos.
+ 1. You only get to see the current piece
+ 2. You only get to see the next X pieces
+ 3. You see the next X pieces, and can hold a piece if necessary.
